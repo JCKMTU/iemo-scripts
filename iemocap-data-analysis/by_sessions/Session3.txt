@@ -1,0 +1,34 @@
+Ses03F_impro01.txt	Nan = 1051	Total_frame = 11085	Error = 9.5%
+Ses03F_impro02.txt	Nan = 433	Total_frame = 38193	Error = 1.1%
+Ses03F_impro03.txt	Nan = 1383	Total_frame = 20702	Error = 6.7%
+Ses03F_impro04.txt	Nan = 806	Total_frame = 21101	Error = 3.8%
+Ses03F_impro05.txt	Nan = 435	Total_frame = 19830	Error = 2.2%
+Ses03F_impro06.txt	Nan = 974	Total_frame = 29894	Error = 3.3%
+Ses03F_impro07.txt	Nan = 1052	Total_frame = 23803	Error = 4.4%
+Ses03F_impro08.txt	Nan = 389	Total_frame = 20435	Error = 1.9%
+Ses03F_script01_1.txt	Nan = 964	Total_frame = 54821	Error = 1.8%
+Ses03F_script01_2.txt	Nan = 192	Total_frame = 17403	Error = 1.1%
+Ses03F_script01_3.txt	Nan = 1032	Total_frame = 50762	Error = 2.0%
+Ses03F_script02_1.txt	Nan = 1692	Total_frame = 43946	Error = 3.9%
+Ses03F_script02_2.txt	Nan = 430	Total_frame = 53750	Error = 0.8%
+Ses03F_script03_1.txt	Nan = 350	Total_frame = 28927	Error = 1.2%
+Ses03F_script03_2.txt	Nan = 446	Total_frame = 39947	Error = 1.1%
+Ses03M_impro01.txt	Nan = 1231	Total_frame = 19183	Error = 6.4%
+Ses03M_impro02.txt	Nan = 28	Total_frame = 31777	Error = 0.1%
+Ses03M_impro03.txt	Nan = 288	Total_frame = 31679	Error = 0.9%
+Ses03M_impro04.txt	Nan = 1596	Total_frame = 36008	Error = 4.4%
+Ses03M_impro05a.txt	Nan = 1423	Total_frame = 20313	Error = 7.0%
+Ses03M_impro05b.txt	Nan = 1310	Total_frame = 29291	Error = 4.5%
+Ses03M_impro06.txt	Nan = 0	Total_frame = 29968	Error = 0.0%
+Ses03M_impro07.txt	Nan = 162	Total_frame = 19458	Error = 0.8%
+Ses03M_impro08a.txt	Nan = 28	Total_frame = 33123	Error = 0.1%
+Ses03M_impro08b.txt	Nan = 0	Total_frame = 25334	Error = 0.0%
+Ses03M_script01_1.txt	Nan = 26	Total_frame = 51267	Error = 0.1%
+Ses03M_script01_2.txt	Nan = 0	Total_frame = 21183	Error = 0.0%
+Ses03M_script01_3.txt	Nan = 153	Total_frame = 50225	Error = 0.3%
+Ses03M_script02_1.txt	Nan = 507	Total_frame = 42636	Error = 1.2%
+Ses03M_script02_2.txt	Nan = 23	Total_frame = 55130	Error = 0.0%
+Ses03M_script03_1.txt	Nan = 1836	Total_frame = 32541	Error = 5.6%
+Ses03M_script03_2.txt	Nan = 7699	Total_frame = 39805	Error = 19.3%
+Average: 3.0%
+Total_frame: 1043520

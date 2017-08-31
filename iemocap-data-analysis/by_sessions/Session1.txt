@@ -1,0 +1,30 @@
+Ses01F_impro01.txt	Nan = 2290	Total_frame = 13835	Error = 16.6%
+Ses01F_impro02.txt	Nan = 149	Total_frame = 25063	Error = 0.6%
+Ses01F_impro03.txt	Nan = 2141	Total_frame = 14780	Error = 14.5%
+Ses01F_impro04.txt	Nan = 3207	Total_frame = 24483	Error = 13.1%
+Ses01F_impro05.txt	Nan = 2924	Total_frame = 26336	Error = 11.1%
+Ses01F_impro06.txt	Nan = 1227	Total_frame = 38218	Error = 3.2%
+Ses01F_impro07.txt	Nan = 8745	Total_frame = 17405	Error = 50.2%
+Ses01F_script01_1.txt	Nan = 2953	Total_frame = 52329	Error = 5.6%
+Ses01F_script01_2.txt	Nan = 0	Total_frame = 18843	Error = 0.0%
+Ses01F_script01_3.txt	Nan = 7362	Total_frame = 56202	Error = 13.1%
+Ses01F_script02_1.txt	Nan = 7197	Total_frame = 40033	Error = 18.0%
+Ses01F_script02_2.txt	Nan = 3590	Total_frame = 57962	Error = 6.2%
+Ses01F_script03_1.txt	Nan = 8111	Total_frame = 33847	Error = 24.0%
+Ses01F_script03_2.txt	Nan = 2580	Total_frame = 38065	Error = 6.8%
+Ses01M_impro01.txt	Nan = 6685	Total_frame = 20457	Error = 32.7%
+Ses01M_impro02.txt	Nan = 6052	Total_frame = 26754	Error = 22.6%
+Ses01M_impro03.txt	Nan = 4648	Total_frame = 18613	Error = 25.0%
+Ses01M_impro04.txt	Nan = 14509	Total_frame = 23308	Error = 62.2%
+Ses01M_impro05.txt	Nan = 8707	Total_frame = 24663	Error = 35.3%
+Ses01M_impro06.txt	Nan = 6543	Total_frame = 30191	Error = 21.7%
+Ses01M_impro07.txt	Nan = 8649	Total_frame = 24965	Error = 34.6%
+Ses01M_script01_1.txt	Nan = 13830	Total_frame = 51718	Error = 26.7%
+Ses01M_script01_2.txt	Nan = 7131	Total_frame = 21559	Error = 33.1%
+Ses01M_script01_3.txt	Nan = 10880	Total_frame = 62495	Error = 17.4%
+Ses01M_script02_1.txt	Nan = 12615	Total_frame = 48926	Error = 25.8%
+Ses01M_script02_2.txt	Nan = 14211	Total_frame = 65020	Error = 21.9%
+Ses01M_script03_1.txt	Nan = 13299	Total_frame = 36513	Error = 36.4%
+Ses01M_script03_2.txt	Nan = 18057	Total_frame = 40811	Error = 44.2%
+Average: 22.2%
+Total_frame: 953394

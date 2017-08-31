@@ -1,0 +1,4 @@
+Ses01F_script02_2_M027.txt	Nan = 0	Total_frame = 604	Error = 0.0%
+Ses02F_script01_2_F004.txt	Nan = 0	Total_frame = 219	Error = 0.0%
+Ses04M_impro04_M023.txt	Nan = 58	Total_frame = 979	Error = 5.9%
+Average: 2.0%

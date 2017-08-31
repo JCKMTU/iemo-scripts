@@ -1,0 +1,32 @@
+Ses05F_impro01.txt	Nan = 16030	Total_frame = 22622	Error = 70.9%
+Ses05F_impro02.txt	Nan = 31935	Total_frame = 41999	Error = 76.0%
+Ses05F_impro03.txt	Nan = 23553	Total_frame = 31068	Error = 75.8%
+Ses05F_impro04.txt	Nan = 39315	Total_frame = 48926	Error = 80.4%
+Ses05F_impro05.txt	Nan = 42044	Total_frame = 46749	Error = 89.9%
+Ses05F_impro06.txt	Nan = 5657	Total_frame = 27992	Error = 20.2%
+Ses05F_impro07.txt	Nan = 18183	Total_frame = 22404	Error = 81.2%
+Ses05F_impro08.txt	Nan = 21312	Total_frame = 26123	Error = 81.6%
+Ses05F_script01_1.txt	Nan = 48626	Total_frame = 48646	Error = 100.0%
+Ses05F_script01_2.txt	Nan = 12957	Total_frame = 18927	Error = 68.5%
+Ses05F_script01_3.txt	Nan = 49586	Total_frame = 52736	Error = 94.0%
+Ses05F_script02_1.txt	Nan = 33992	Total_frame = 38552	Error = 88.2%
+Ses05F_script02_2.txt	Nan = 40602	Total_frame = 52969	Error = 76.7%
+Ses05F_script03_1.txt	Nan = 23993	Total_frame = 29425	Error = 81.5%
+Ses05F_script03_2.txt	Nan = 23459	Total_frame = 31125	Error = 75.4%
+Ses05M_impro01.txt	Nan = 9817	Total_frame = 19530	Error = 50.3%
+Ses05M_impro02.txt	Nan = 14397	Total_frame = 26527	Error = 54.3%
+Ses05M_impro03.txt	Nan = 6375	Total_frame = 26751	Error = 23.8%
+Ses05M_impro04.txt	Nan = 15888	Total_frame = 33305	Error = 47.7%
+Ses05M_impro05.txt	Nan = 5925	Total_frame = 16822	Error = 35.2%
+Ses05M_impro06.txt	Nan = 13020	Total_frame = 25102	Error = 51.9%
+Ses05M_impro07.txt	Nan = 4120	Total_frame = 25698	Error = 16.0%
+Ses05M_impro08.txt	Nan = 11186	Total_frame = 26850	Error = 41.7%
+Ses05M_script01_1.txt	Nan = 32078	Total_frame = 43015	Error = 74.6%
+Ses05M_script01_2.txt	Nan = 11981	Total_frame = 17362	Error = 69.0%
+Ses05M_script01_3.txt	Nan = 41903	Total_frame = 53195	Error = 78.8%
+Ses05M_script02_1.txt	Nan = 23861	Total_frame = 42566	Error = 56.1%
+Ses05M_script02_2.txt	Nan = 34342	Total_frame = 54652	Error = 62.8%
+Ses05M_script03_1.txt	Nan = 10781	Total_frame = 29706	Error = 36.3%
+Ses05M_script03_2.txt	Nan = 19224	Total_frame = 32068	Error = 59.9%
+Average: 63.9%
+Total_frame: 1013412
