@@ -22,7 +22,7 @@ phon_data = np.loadtxt(sys.argv[2], delimiter=',', dtype=str)
 for i, mout in enumerate(mout_data):
 	# mout[0] *= 3
 	if phon_data[i][0] == 'SIL':
-		mout[0] /= SIL
+		mout /= SIL
 
 
 writer = csv.writer(open(sys.argv[1].replace('.dat', '_scaled.dat'), 'w'), delimiter=',')

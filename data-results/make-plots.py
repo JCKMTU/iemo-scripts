@@ -27,6 +27,7 @@ mobu_shpk = ['B_CenterDn', 'B_CenterUp',
              'M_UpperLipLeftDn', 'M_UpperLipLeftUp', 'M_UpperLipRightDn', 'M_UpperLipRightUp',
              'N_SneerLeft', 'N_SneerRight']
 
+
 faceshift_shpk = ['m_headRotation.x', 'm_headRotation.y', 'm_headRotation.z', 'm_headRotation.w', 
                   'm_headTranslation.x', 'm_headTranslation.y', 'm_headTranslation.z', 
                   'm_neckRotation.x', 'm_neckRotation.y', 'm_neckRotation.z', 
@@ -79,7 +80,7 @@ PARAMETERS:
     face_path - a path to a *_face.dat file which contains facial mocap data.
     phon_path - a path to a *.pho file which contains phonemedata of above file.
     key_index - an index that indicates a blendshape.
-DESCRIPTION:
+USAGE:
     The function plot a graph which shows a relation of phonemes and
     shapekey values.
 '''
